@@ -1,0 +1,77 @@
+.duvidas {
+    margin-top: 15px;
+  
+    display: flex;
+    justify-content: center;
+    font-family: "Quicksand";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+  }
+  form {
+    position: relative;
+    flex-direction: column;
+    margin-top: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  form label {
+    color: #ed7839;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  form .assunto {
+    width: 1025.52px;
+    height: 39px;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+  }
+  form .conteudo {
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+    width: 1025.52px;
+    height: 113px;
+    resize: none;
+    position: relative;
+  }
+  .footer-links {
+    bottom: 5.1px;
+    position: absolute;
+  }
+  form .rectangle {
+    margin-left: 1px;
+    border-radius: 0px 0px 4px 4px;
+    display: flex;
+    justify-content: space-between;
+    width: 1024px;
+    height: 31px;
+    background: #eaf1f2;
+  }
+  .rectangle a {
+    font-family: "Quicksand";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    width: 205.1px;
+    height: 31px;
+    justify-content: center;
+    text-decoration: none;
+    background: linear-gradient(180deg, #feb154 0%, #f1833e 100%);
+  }
+  .shapes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 29px;
+  }
+  .shapes img {
+    margin-right: 30px;
+  }

@@ -1,0 +1,27 @@
+.notific {
+    margin-top: 18px;
+    display: flex;
+    justify-content: center;
+    font-family: "Quicksand";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #595959;
+  }
+  .link-trabalhos {
+    margin-bottom: 47px;
+    margin-top: 29px;
+    display: flex;
+    justify-content: center;
+  }
+  .link-trabalhos a {
+    color: #f48f44;
+    font-family: "Quicksand";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+  }
+  .division button{
+    width: 225px;
+
+  }
